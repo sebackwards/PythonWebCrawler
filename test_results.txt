@@ -1,0 +1,13 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.8, pytest-5.2.0, py-1.8.0, pluggy-0.13.0 -- /home/sebas/.local/share/virtualenvs/2019-uRnIP0DY/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/sebas/Documents/Sebas/Portafolio/Job Applications/Monzo/2019
+collecting ... collected 5 items
+
+test_scrapper.py::test_bad_thread PASSED                                 [ 20%]
+test_scrapper.py::test_bad_crawl PASSED                                  [ 40%]
+test_scrapper.py::test_bad_timeout PASSED                                [ 60%]
+test_scrapper.py::test_bad_sslverify PASSED                              [ 80%]
+test_scrapper.py::test_unreachable_URL PASSED                            [100%]
+
+============================== 5 passed in 0.08s ===============================
