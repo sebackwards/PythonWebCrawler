@@ -77,5 +77,4 @@ pytest crawler_Test.py
 ```
 
 ## Author
-
-* **Sebastian Toscano**
+**Sebastian Toscano**
